@@ -1,0 +1,13 @@
+#python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+pip-wheel-metadata/
+
+venv
+
+
