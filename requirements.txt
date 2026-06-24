@@ -1,1 +1,8 @@
+anyio==4.14.1
+certifi==2026.6.17
 click==8.4.1
+-e git+https://github.com/YuXiang1105/WSTG-CLI.git@9be057aaa2dabb8c76769d4058a1616236b5a2e8#egg=clio
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.18

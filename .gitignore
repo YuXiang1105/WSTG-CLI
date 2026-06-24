@@ -10,4 +10,7 @@ pip-wheel-metadata/
 
 venv
 
-
+dist/
+build/
+*.egg-info/
+lista
